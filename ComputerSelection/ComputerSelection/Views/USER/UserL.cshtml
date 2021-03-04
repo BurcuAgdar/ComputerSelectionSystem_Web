@@ -1,0 +1,700 @@
+﻿@model IEnumerable<SystemRequirement>
+@using ComputerSelection.Data;
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en" asp-action="User" asp-controller="User">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Selection</title>
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,600;1,400;1,500;1,600&family=Yusei+Magic&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+    <div class="header">
+        
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="~/Image/log.png" aria-hidden="true" width="125px">
+                </div>
+                <nav>
+                    <ul id="MenuItems">
+                        <li> <a asp-action="CPUList" asp-controller="User">CPU</a> </li>
+                        <li> <a asp-action="GPUList" asp-controller="User">GPU</a> </li>
+                        <li> <a asp-action="ComputerList" asp-controller="User">COMPUTERS</a> </li>
+                        <li> <a asp-action="SystemRequirementList" asp-controller="User">SYS REQUIREMENTS</a> </li>
+                        <li> <a asp-action="RamList" asp-controller="User">RAM</a> </li>
+                        <li> <a asp-action="SSDList" asp-controller="User">SSD</a> </li>
+                        <li> <a asp-action="HardDiskList" asp-controller="User">HDD</a> </li>
+                        <li> <a asp-action="MainboardList" asp-controller="User">MAINBOARD</a> </li>
+                    </ul>
+                </nav>
+                <a asp-action="Login" asp-controller="Home"><i class="fa fa-desktop" aria-hidden="true"></i></a>
+                <img src="~/Image/menu.png" class="menu-icon" onclick="menutoggle()">
+            </div>
+            <div class="row">
+                <div class="col-2">
+                    <h1> Welcome to <br>Computer Selection System</h1>
+                    <p>
+                        Are you looking for a computer where you can play the game you want and use any program you want?
+                        This website is for you. Select the programs you want and find the most suitable computer or collect computer parts for it.
+                        If you want, you can browse all computer components in the upper right corner.
+                    </p>
+                    <a href="#seb" class="btn">Explore Now &#8594;</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!------- featured catagories -------------------->
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Create a column layout with Flexbox */
+        .catagories .row {
+            display: flex;
+        }
+
+        /* Left column (menu) */
+        .left {
+            flex: 35%;
+            padding: 15px 0;
+        }
+
+            .left h2 {
+                padding-left: 8px;
+            }
+
+        /* Right column (page content) */
+
+
+        /* Style the search box */
+        #mySearch {
+            width: 100%;
+            font-size: 18px;
+            padding: 11px;
+            border: 1px solid #ddd;
+        }
+
+        #mySearch2 {
+            width: 100%;
+            font-size: 18px;
+            padding: 11px;
+            border: 1px solid #ddd;
+        }
+
+        /* Style the navigation menu inside the left column */
+        .vertical-menu {
+            width: 100%;
+            height: 450px;
+            overflow-y: auto;
+        }
+
+
+            .vertical-menu a {
+                background-color: #eee;
+                color: black;
+                display: block;
+                padding: 12px;
+                text-decoration: none;
+            }
+
+                .vertical-menu a:hover {
+                    background-color: #ccc;
+                }
+
+                .vertical-menu a.active {
+                    background-color: #4CAF50;
+                    color: white;
+                }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+            max-height: 0px;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 79px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #f1f1f1
+                }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+
+    <h1>Choose Your PC </h1>
+
+    <div id="seb" class="catagories">
+        <div class="small-container">
+
+            <div class="row">
+                <div class="col-2">
+                    <br />
+                    <br />
+                    <br />
+                    <h2>Laptop</h2>
+                    <input type="submit" asp-action="UserSelectLaptop" asp-controller="User" value="Create Laptop" class="btn btn-default" onclick="save()" style="margin-right:0px" />
+                    <div class="dropdown">
+                        <img src="~/Image/laptop.png" width="500" height="400">
+                        <div class="dropdown-content">
+                            <div class="row">
+                                <div class="left" style="background-color:#bbb;">
+                                    <h2>Software Lists</h2>
+                                    <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category" />
+                                    <div class="vertical-menu" id="vertical-menu">
+                                        @foreach (var item in Model)
+                                        {
+                                            <a class="changeable" id="@item.Model" value="@item.Model">@item.Model</a>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <h2>Desktop</h2>
+                    <input type="submit" asp-action="UserSelectDesktop" asp-controller="User" value="Create Desktop" class="btn btn-default" onclick="save2()" />
+                    <div class="dropdown">
+                        <img src="~/Image/desktop.png" width="500" height="400">
+                        <div class="dropdown-content">
+                            <div class="row">
+                                <div class="left" style="background-color:#bbb;">
+                                    <h2>Software Lists</h2>
+                                    <input type="text" id="mySearch2" onkeyup="myFunction2()" placeholder="Search.." />
+                                    <div class="vertical-menu" id="vertical-menu2">
+                                        @foreach (var item in Model)
+                                        {
+                                            <a class="changeable" id="@item.Model" value="@item.Model">@item.Model</a>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="wait" style="display: none; width: 100%; height: 100%; top: 100px; left: 0px; position: fixed; z-index: 10000; text-align: center;">
+        <img src="./Image/preview.gif" width="200" height="200" alt="Loading..." style="position: fixed; top: 30%; left: 45%;" />
+    </div>
+    <div class="create">
+
+    </div>
+    <div class="createDesktop">
+    </div>
+
+
+    <!------- featured ürünler -------------------->
+
+    <div class="small-container">
+
+        <h2 class="title">
+            PC PARTS
+        </h2>
+        <div class="row">
+            <div class="col-4">
+                <img src="~/Image/cpu.jpeg">
+                <h4>CPU-Central Process Unit</h4>
+                <div class="rating">
+                    <i class="fa fa-bolt" aria-hidden="true"></i>
+                </div>
+                <p>
+                    A central processing unit (CPU), also called a central processor, main processor or just processor,
+                    is the electronic circuitry within a computer that executes instructions that make up a computer
+                    program. The CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations
+                    specified by the instructions in the program.
+                </p>
+            </div>
+
+            <div class="col-4">
+                <img src="~/Image/gpu.jpg">
+
+                <h4> <br> <br>GPU</h4>
+                <div class="rating">
+                    <i class="fa fa-desktop" aria-hidden="true"></i>
+
+                </div>
+                <p>
+                    A graphics processing unit (GPU) is a specialized electronic circuit designed to rapidly manipulate
+                    and alter memory to accelerate the creation of images in a frame buffer intended for output to a
+                    display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations,
+                    and game consoles.
+                </p>
+            </div>
+
+            <div class="col-4">
+                <br><br>
+                <img src="~/Image/ram.jpg">
+                <h4><br><br>RAM</h4>
+                <div class="rating">
+                    <i class="fa fa-microchip" aria-hidden="true"></i>
+                </div>
+                <p>
+                    RAM (Random Access Memory) is the hardware in a computing device where the operating system (OS),
+                    application programs and data in current use are kept so they can be quickly reached by the device's
+                    processor. RAM is the main memory in a computer. It is much faster to read from and write to than
+                    other kinds of storage, such as a hard disk drive (HDD), solid-state drive (SSD) or optical drive.
+                </p>
+            </div>
+
+            <div class="col-4">
+                <img src="~/Image/ssd.png">
+                <h4>SSD</h4>
+                <div class="rating">
+                    <i class="fa fa-plug" aria-hidden="true"></i>
+                </div>
+                <p>
+                    Stands for "Solid State Drive." An SSD is a type of mass storage device similar to a hard disk drive
+                    (HDD). It supports reading and writing data and maintains stored data in a permanent state even
+                    without power. Internal SSDs connect to a computer like a hard drive, using standard IDE or SATA
+                    connections.
+                </p>
+            </div>
+
+            <div class="col-4">
+                <img src="~/Image/harddisk.png">
+                <h4>HARDDISK</h4>
+                <div class="rating">
+                    <i class="fa fa-plug" aria-hidden="true"></i>
+                </div>
+                <p>
+                    When you save data or install programs on your computer, the information is typically written to your
+                    hard disk. The hard disk is a spindle of magnetic disks, called platters, that record and store
+                    information. Because the data is stored magnetically, information recorded to the hard disk remains
+                    intact after you turn your computer off.
+                </p>
+            </div>
+            <div class="col-4">
+                <img src="~/Image/psu.jpg">
+                <h4>PSU</h4>
+                <div class="rating">
+                    <i class="fa fa-plug" aria-hidden="true"></i>
+                </div>
+                <p>
+                    A power supply is a hardware component that supplies power to an electrical device. It receives power
+                    from an electrical outlet and converts the current from AC (alternating current) to DC (direct
+                    current), which is what the computer requires.
+                </p>
+            </div>
+
+            <div class="col-4">
+                <img src="~/Image/software.jpeg">
+                <h4>PSU</h4>
+                <div class="rating">
+                    <i class="fa fa-plug" aria-hidden="true"></i>
+                </div>
+                <p>
+                    Some technical features are required for each software to work. In computer science, we call these
+                    properties 'minimum system requirements'. For the software you will choose or use, they should be
+                    known and the parts suitable for the requirements should be selected.
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+    <!------- Offer ürünler -------------------->
+
+    <div class="offer">
+        <div class="small-container">
+            <h1>System Recommendations Featured This Month<br><br></h1><br>
+            <small>
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Entry Level</th>
+                                <th>Middle Level</th>
+                                <th>Hight Level</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+
+                                <td>CPU</td>
+                                <td>
+                                    <pre>             Intel Core i5-1035G1</pre>
+                                </td>
+                                <td>
+                                    <pre>             AMD Ryzen 5 4500U</pre>
+                                </td>
+                                <td>
+                                    <pre>             AMD Ryzen 7 4700U</pre>
+                                </td>
+
+
+                            </tr>
+                            <tr>
+                                <td>APU</td>
+                                <td>
+                                    <pre>             Intel UHD Graphics</pre>
+                                </td>
+                                <td>
+                                    <pre>             Radeon Vega 6 Graphics</pre>
+                                </td>
+                                <td>
+                                    <pre>             Radeon RX 640</pre>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>RAM</td>
+                                <td>
+                                    <pre>             4 GB, DDR4</pre>
+                                </td>
+                                <td>
+                                    <pre>             8 GB, DDR4</pre>
+                                </td>
+                                <td>
+                                    <pre>             8 GB, DDR4</pre>
+                                </td>
+
+                            </tr>
+
+                            <tr>
+                                <td>Disk</td>
+                                <td>
+                                    <pre>             256 GB</pre>
+                                </td>
+                                <td>
+                                    <pre>             256 GB</pre>
+                                </td>
+                                <td>
+                                    <pre>             256 GB</pre>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>Screen</td>
+                                <td>
+                                    <pre>             15.6 inç, 1366×768</pre>
+                                </td>
+                                <td>
+                                    <pre>             14 inç, 1920×1080</pre>
+                                </td>
+                                <td>
+                                    <pre>             15.6 inç, 1920×1080</pre>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>Connections</td>
+                                <td>
+                                    <pre>             USB 2.x, USB 3.x, HDMI</pre>
+                                </td>
+                                <td>
+                                    <pre>             USB 2.x, USB 3.x, HDMI</pre>
+                                </td>
+                                <td>
+                                    <pre>             USB 2.x, USB 3.x, HDMI</pre>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>Network</td>
+                                <td>
+                                    <pre>             Wi-Fi 5 (802.11ac), Bluetooth 4.1</pre>
+                                </td>
+                                <td>
+                                    <pre>             Wi-Fi 6 (802.11ax), Bluetooth 5</pre>
+                                </td>
+                                <td>
+                                    <pre>              Wi-Fi 5 (802.11ac), Bluetooth 5</pre>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>Weight</td>
+                                <td>
+                                    <pre>             1.7 kg</pre>
+                                </td>
+                                <td>
+                                    <pre>             1.20 kg</pre>
+                                </td>
+                                <td>
+                                    <pre>             1.80 kg</pre>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>Operaing System</td>
+                                <td>
+                                    <pre>             Windows 10</pre>
+                                </td>
+                                <td>
+                                    <pre>             FreeDOS</pre>
+                                </td>
+                                <td>
+                                    <pre>             Linux</pre>
+                                </td>
+
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </small>
+
+
+        </div>
+    </div>
+
+    <!------- Taban Kısmı -------------------->
+
+    <div class="testimonial">
+
+        <div class="small-container">
+            <div class="row">
+                <div class="col-3">
+                    <i class="fa fa-quote-left"></i>
+                    <p>Biz buradan detaylı olarak geliştiricileri göstermekteyiz</p>
+                    <img src="~/Image/ebb.png">
+                    <h3>Emirhan Bilge Bulut</h3>
+                </div>
+
+                <div class="col-3">
+                    <i class="fa fa-quote-left"></i>
+                    <p>Biz buradan detaylı olarak geliştiricileri göstermekteyiz</p>
+                    <img src="~/Image/burcu.jpg">
+                    <h3>Burcu Ağdar</h3>
+                </div>
+
+                <div class="col-3">
+                    <i class="fa fa-quote-left"></i>
+                    <p>Biz buradan detaylı olarak geliştiricileri göstermekteyiz</p>
+                    <img src="~/Image/sena.jpg">
+                    <h3>Sena Yurtseven</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br> <br> <br>
+
+    <!----------------------brands-------------->
+    <div class="brands">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-5">
+                    <img src="~/Image/intel.png">
+                </div>
+                <div class="col-5">
+                    <img src="~/Image/amd.png">
+                </div>
+                <div class="col-5">
+                    <img src="~/Image/nvidia.jpg">
+                </div>
+                <div class="col-5">
+                    <img src="~/Image/apple.jpg">
+                </div>
+                <div class="col-5">
+                    <img src="~/Image/msi.png">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!----------------------Footer-------------->
+
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+
+                <div class="footer-col-1">
+                    <h3>Select system </h3>
+                    <p>Download App for Android mobile phone , we will came as soon as ios</p>
+                    <div class="app-logo">
+                        <img src="~/Image/play-store.png">
+                        <img src="~/Image/app-store.png">
+                    </div>
+                </div>
+                <div class="footer-col-2">
+                    <img src="~/Image/log.png">
+                    <p>We are here at your service for you to catch up with technology and never pay extra money.</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li>Products</li>
+                        <li>Selections</li>
+                        <li>Computers</li>
+                        <li>Developments</li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow US</h3>
+                    <ul>
+                        <li>Linkedin</li>
+                        <li>Github</li>
+                        <li>Telegram</li>
+                        <li>YoutTube</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">2021 - SELECTC COMPUTER SYSTEM ®</p>
+        </div>
+    </div>
+
+    <p id="ebb"></p>
+    <!--------------- java script for toggle menu --------------->
+
+    <script>
+        var MenuItems = document.getElementById("MenuItems");
+        MenuItems.style.maxHeight = "0px";
+
+        function menutoggle() {
+            if (MenuItems.style.maxHeight == "0px") {
+                MenuItemss.style.maxHeight = "100px";
+            }
+            else {
+                MenuItemss.style.maxHeight = "0px";
+            }
+        }
+    </script>
+
+
+
+    <!--------------- Resimlerdeki Laptop Desktop --------------->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        function myFunction() {
+            var input, filter, ul, li, a, i;
+            input = document.getElementById("mySearch");
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("vertical-menu");
+            li = ul.getElementsByTagName("a");
+            for (i = 0; i < li.length; i++) {
+
+                if (li[i].innerHTML.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+        function myFunction2() {
+            var input, filter, ul, li, a, i;
+            input = document.getElementById("mySearch2");
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("vertical-menu2");
+            li = ul.getElementsByTagName("a");
+            for (i = 0; i < li.length; i++) {
+
+                if (li[i].innerHTML.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+    </script>
+    <script>
+
+        var gameselected = [];
+        var links = document.getElementsByClassName('changeable');
+        function changeColor(e) {
+            e.target.style.color = e.target.style.color ? null : 'red';
+        }
+        function savearray(e) {
+            var name = e.target.innerHTML;
+            var obj = {
+                "GameName": name
+            }
+            gameselected.push(obj);
+            console.log(gameselected);
+        }
+        for (var i = 0; i < links.length; i++) {
+            links[i].addEventListener('click', changeColor);
+            links[i].addEventListener('click', savearray);
+
+        }
+
+        function save() {
+            $('#wait').show();
+            postData = gameselected;
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("UserL", "User")',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                data: JSON.stringify(postData),
+
+                success: function (postData) {
+                    $('#wait').hide();
+                    window.open('https://localhost:44316/User/UserSelectLaptop', 'myNewPage');
+                },
+                error: function (ex) {
+                    $('#wait').hide();
+                    window.open('https://localhost:44316/User/UserSelectLaptop', 'myNewPage');
+                }
+            });
+        }
+
+        function save2() {
+            $('#wait').show();
+            postData = gameselected;
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("UserD", "User")',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                data: JSON.stringify(postData),
+                success: function (postData) {
+                    $('#wait').hide();
+                    window.open('https://localhost:44316/User/UserSelectDesktop', 'myNewPage');
+                },
+                error: function (ex) {
+                    $('#wait').hide();
+                    window.open('https://localhost:44316/User/UserSelectDesktop', 'myNewPage');
+                }
+            });
+        }
+
+    </script>
+</body>
+
+</html>

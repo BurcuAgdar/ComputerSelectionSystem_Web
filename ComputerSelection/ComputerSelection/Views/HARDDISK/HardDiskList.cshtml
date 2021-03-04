@@ -1,0 +1,66 @@
+﻿@model IEnumerable<HARDDISKViewModel>
+@using ComputerSelection.Models
+
+<style>
+    .btn-group{
+        color:brown;
+    }
+</style>
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">HardDisks</div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a onclick="location.href='@Url.Action("AddHardDisk", "HARDDISK")'" id="createEditUserModal" data-toggle="modal" asp-controller="HARDDISK" asp-action="AddHardDisk" data-target="#modal-action-user" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i> Add HardDisk
+            </a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Model</th>
+                    <th>Memory Capacity</th>
+                    <th>Connection Type</th>
+                    <th>Cache</th>
+                    <th>Rotation Speed</th>
+                    <th>Disk Size</th>
+                    <th>Edit & Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+    <tr>
+        <td>@Html.DisplayFor(modelItem => item.Model)</td>
+        <td>@Html.DisplayFor(modelItem => item.MemoryCapacity)</td>
+        <td>@Html.DisplayFor(modelItem => item.ConnectionType)</td>
+        <td>@Html.DisplayFor(modelItem => item.Cache)</td>
+        <td>@Html.DisplayFor(modelItem => item.RotationSpeed)</td>
+        <td>@Html.DisplayFor(modelItem => item.DiskSize)</td>
+        <td>
+            <div class="btn-group">
+                <a onclick="location.href='@Url.Action("EditHardDisk", "HARDDISK", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="HARDDISK" asp-action="EditHardDisk" data-target="#modal-action-user" class="btn btn-primary">
+                    Edit
+                </a>
+            </div>
+
+            <div class="btn-group" style="color:red;">
+                <a onclick="location.href='@Url.Action("DeleteHardDisk", "HARDDISK", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="HARDDISK" asp-action="DeleteRAM" data-target="#modal-action-user" class="btn btn-primary">
+                    Delete
+                </a>
+            </div>
+
+        </td>
+    </tr>
+}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/js/user-index.js" asp-append-version="true"></script>
+}

@@ -1,0 +1,1048 @@
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.exe
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.deps.json
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.json
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.dev.json
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csprojAssemblyReference.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfoInputs.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfo.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.Manifest.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.xml
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComputerSelection.styles.css
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.input.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.output.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorCoreGenerate.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.genruntimeconfig.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CopyComplete
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\CPUList.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddCPU.cshtml.g.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csprojAssemblyReference.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfoInputs.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfo.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CoreCompileInputs.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.exe
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.deps.json
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.json
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.dev.json
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.Manifest.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.xml
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComputerSelection.styles.css
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.input.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.output.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorCoreGenerate.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\CPUList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\GPUList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CopyComplete
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.genruntimeconfig.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\RAMList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\SSDList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\HardDiskList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\MAINBOARDList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.exe
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.deps.json
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.json
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.dev.json
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csprojAssemblyReference.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfoInputs.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfo.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.Manifest.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.xml
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComputerSelection.styles.css
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.input.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.output.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorCoreGenerate.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\AddCPU.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\GPUList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\HardDiskList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\MAINBOARDList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\RAMList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\SSDList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CopyComplete
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.genruntimeconfig.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\AddCPU.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\AddGPU.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\AddHardDisk.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\AddMainboard.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\AddSSD.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\AddRAM.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\EditCPU.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\EditGPU.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\EditRam.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\EditSSD.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\EditMAINBOARD.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\EditHardDisk.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\EditCPU.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\AddGPU.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\EditGPU.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\AddHardDisk.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\EditHardDisk.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\AddMainboard.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\EditMAINBOARD.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\AddRAM.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\EditRam.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\AddSSD.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\EditSSD.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\CPUList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Admin.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Log\LogList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\AddComputer.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\ComputerList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\EditComputer.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\AddSystemRequirement.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\EditSystemRequirement.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\SystemRequirementList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\CPUList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\User.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Admin.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\AddComputer.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\ComputerList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\EditComputer.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Log\LogList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\AddSystemRequirement.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\EditSystemRequirement.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\SystemRequirementList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\CPUList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\GPUList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserL.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\ComputerList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\RAMList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\SSDList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\HardDiskList.cshtml.g.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\MainBoardList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.exe
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.deps.json
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.json
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.dev.json
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csprojAssemblyReference.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfoInputs.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfo.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CoreCompileInputs.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.Manifest.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.xml
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComputerSelection.styles.css
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.input.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.output.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorCoreGenerate.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Admin.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\AddComputer.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\ComputerList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\EditComputer.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\AddCPU.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\CPUList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\EditCPU.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\AddGPU.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\EditGPU.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\GPUList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\AddHardDisk.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\EditHardDisk.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\HardDiskList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Log\LogList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\AddMainboard.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\EditMAINBOARD.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\MAINBOARDList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\AddRAM.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\EditRam.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\RAMList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\AddSSD.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\EditSSD.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\SSDList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\AddSystemRequirement.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\EditSystemRequirement.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\SystemRequirementList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\ComputerList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\CPUList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\GPUList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\HardDiskList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\MainBoardList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\RAMList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\SSDList.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserL.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CopyComplete
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.genruntimeconfig.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserSelectLaptop.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.exe
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.deps.json
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.json
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.dev.json
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csprojAssemblyReference.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfoInputs.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfo.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CoreCompileInputs.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.Manifest.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.xml
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComputerSelection.styles.css
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.input.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.output.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorCoreGenerate.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Admin.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\AddComputer.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\ComputerList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\EditComputer.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\AddCPU.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\CPUList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\EditCPU.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\AddGPU.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\EditGPU.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\GPUList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\AddHardDisk.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\EditHardDisk.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\HardDiskList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Log\LogList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\AddMainboard.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\EditMAINBOARD.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\MAINBOARDList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\AddRAM.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\EditRam.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\RAMList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\AddSSD.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\EditSSD.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\SSDList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\AddSystemRequirement.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\EditSystemRequirement.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\SystemRequirementList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\ComputerList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\CPUList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\GPUList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\HardDiskList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\MainBoardList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\RAMList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\SSDList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserL.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserSelectLaptop.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CopyComplete
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.genruntimeconfig.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\SystemRequirementList.cshtml.g.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Web.Providers.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserSelectDesktop.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.exe
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.deps.json
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.json
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.runtimeconfig.dev.json
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Web.Providers.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Data.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Repository.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\bin\Debug\netcoreapp3.1\ComputerSelection.Service.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csprojAssemblyReference.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfoInputs.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.AssemblyInfo.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CoreCompileInputs.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorAssemblyInfo.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.Manifest.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\staticwebassets\ComputerSelection.StaticWebAssets.xml
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComputerSelection.styles.css
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.input.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.TagHelpers.output.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorCoreGenerate.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Admin.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\AddComputer.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\ComputerList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\COMPUTER\EditComputer.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\AddCPU.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\CPUList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\CPU\EditCPU.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\AddGPU.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\EditGPU.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\GPU\GPUList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\AddHardDisk.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\EditHardDisk.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\HARDDISK\HardDiskList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Log\LogList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\AddMainboard.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\EditMAINBOARD.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\MAINBOARD\MAINBOARDList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\AddRAM.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\EditRam.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\RAM\RAMList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\AddSSD.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\EditSSD.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SSD\SSDList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\AddSystemRequirement.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\EditSystemRequirement.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\SystemRequirement\SystemRequirementList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\ComputerList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\CPUList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\GPUList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\HardDiskList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\MainBoardList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\RAMList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\SSDList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\SystemRequirementList.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserL.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserSelectDesktop.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\USER\UserSelectLaptop.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.RazorTargetAssemblyInfo.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.Views.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.csproj.CopyComplete
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection\obj\Debug\netcoreapp3.1\ComputerSelection.genruntimeconfig.cache

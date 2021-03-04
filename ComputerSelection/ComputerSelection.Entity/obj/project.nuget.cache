@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WR3O8Soci7RXGssbLvinVwUSHKBZpj+Rhj0Dyzgr+OmD8B9DklUB9rWOwp0rKWgknOIy7FoVApKB/TlMxLQvqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP OMEN\\source\\repos\\ComputerSelection\\ComputerSelection.Entity\\ComputerSelection.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP OMEN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP OMEN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

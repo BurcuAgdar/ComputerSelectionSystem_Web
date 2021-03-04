@@ -1,0 +1,62 @@
+﻿@model IEnumerable<MAINBOARDViewModel>
+@using ComputerSelection.Models
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">MainBoards</div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a onclick="location.href='@Url.Action("AddMainboard", "MAINBOARD")'" id="createEditUserModal" data-toggle="modal" asp-controller="MAINBOARD" asp-action="AddMainboard" data-target="#modal-action-user" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i> Add MainBoard
+            </a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Model</th>
+                    <th>Processor Model</th>
+                    <th>Processor Support</th>
+                    <th>Chipset</th>
+                    <th>Socket Structure</th>
+                    <th>Ram Type</th>
+                    <th>M2 Slot</th>
+                    <th>Casing Structure</th>
+                    <th>Edit & Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Model)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ProcessorModel)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ProcessorSupport)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Chipset)</td>
+                    <td>@Html.DisplayFor(modelItem => item.SocketStructure)</td>
+                    <td>@Html.DisplayFor(modelItem => item.RamType)</td>
+                    <td>@Html.DisplayFor(modelItem => item.M2_Slot)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CasingStructure)</td>
+                    <td>
+                        <div class="btn-group">
+                            <a onclick="location.href='@Url.Action("EditMAINBOARD", "MAINBOARD", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="MAINBOARD" asp-action="EditMAINBOARD" data-target="#modal-action-user" class="btn btn-primary">
+                                Edit
+                            </a>
+                        </div>
+
+                        <div class="btn-group">
+                            <a onclick="location.href='@Url.Action("DeleteMAINBOARD", "MAINBOARD", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="MAINBOARD" asp-action="DeleteMAINBOARD" data-target="#modal-action-user" class="btn btn-primary">
+                                Delete
+                            </a>
+                        </div>
+                    </td>
+                </tr>}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/js/user-index.js" asp-append-version="true"></script>
+}

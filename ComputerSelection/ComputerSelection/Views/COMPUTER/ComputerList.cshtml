@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ComputerViewModel>
+@using ComputerSelection.Models
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">CPUs</div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a onclick="location.href='@Url.Action("AddComputer", "Computer")'" id="createEditUserModal" data-toggle="modal" asp-controller="Computer" asp-action="AddComputer" data-target="#modal-action-user" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i>  Add Computer
+            </a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Model</th>
+                    <th>Display Card</th>
+                    <th>Processor Type</th>
+                    <th>Ram</th>
+                    <th>Processor Generation</th>
+                    <th>Processor Model</th>
+                    <th>OS</th>
+                    <th>Resulation</th>
+                    <th>Screen Size</th>
+                    <th>SSD Capacity</th>
+                    <th>Edit & Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Model)</td>
+                        <td>@Html.DisplayFor(modelItem => item.DisplayCard)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ProcessorType)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Ram)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ProcessorGeneration)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ProcessorModel)</td>
+                        <td>@Html.DisplayFor(modelItem => item.OS)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Resulation)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ScreenSize)</td>
+                        <td>@Html.DisplayFor(modelItem => item.SSD_Capacity)</td>
+                        <td>
+                            <div class="btn-group">
+                                <a onclick="location.href='@Url.Action("EditComputer", "Computer", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="Computer" asp-action="EditComputer" data-target="#modal-action-user" class="btn btn-primary">
+                                    Edit
+                                </a>
+                            </div>
+
+                            <div class="btn-group">
+                                <a onclick="location.href='@Url.Action("DeleteComputer", "Computer", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="Computer" asp-action="DeleteComputer" data-target="#modal-action-user" class="btn btn-primary">
+                                    Delete
+                                </a>
+                            </div>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@section scripts
+{
+
+    <script src="~/js/user-index.js" asp-append-version="true"></script>
+}  

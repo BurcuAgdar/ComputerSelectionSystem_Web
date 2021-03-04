@@ -1,0 +1,81 @@
+﻿@model IEnumerable<CPUViewModel>
+@using ComputerSelection.Models
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">CPUs</div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a onclick="location.href='@Url.Action("AddCPU", "CPU")'" id="createEditUserModal" data-toggle="modal" asp-controller="CPU" asp-action="AddCPU" data-target="#modal-action-user" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i>  Add CPU
+            </a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Model</th>
+                    <th>Cpu Core</th>
+                    <th>Threat Number</th>
+                    <th>Released</th>
+                    <th>Base Clock</th>
+                    <th>Max Clock</th>
+                    <th>Socket Type</th>
+                    <th>TDP</th>
+                    <th>Type</th>
+                    <th>Apu</th>
+                    <th>Apu Frequency</th>
+                    <th>Cpu Mark</th>
+                    <th>Rank</th>
+                    <th>Edit & Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Model)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CpuCore)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ThreatNumber)</td>
+                    @if (item.Released == "")
+                    {
+                        <td>Unkown</td>
+                    }
+                    else
+                    {
+                        <td>@Html.DisplayFor(modelItem => item.Released)</td>
+                    }
+                    <td>@Html.DisplayFor(modelItem => item.BaseClock)</td>
+                    <td>@Html.DisplayFor(modelItem => item.MaxClock)</td>
+                    <td>@Html.DisplayFor(modelItem => item.SocketType)</td>
+                    <td>@Html.DisplayFor(modelItem => item.TDP)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Type)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Apu)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ApuFrequency)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CpuMark)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Rank)</td>
+                    <td>
+                        <div class="btn-group">
+                            <a onclick="location.href='@Url.Action("EditCPU", "CPU", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="CPU" asp-action="EditCPU" data-target="#modal-action-user" class="btn btn-primary">
+                                Edit
+                            </a>
+                        </div>
+
+                        <div class="btn-group">
+                            <a onclick="location.href='@Url.Action("DeleteCPU", "CPU", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="CPU" asp-action="DeleteCPU" data-target="#modal-action-user" class="btn btn-primary">
+                                Delete
+                            </a>
+                        </div>
+
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@section scripts
+{
+
+    <script src="~/js/user-index.js" asp-append-version="true"></script>
+}  

@@ -1,0 +1,189 @@
+﻿@{
+
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Computer Selection</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom CSS -->
+    <link href="~/css/sb-admin.css" rel="stylesheet" />
+    <!-- Morris Charts CSS -->
+    <link href="~/css/plugins/morris.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    <link href="~/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div id="wrapper">
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Computer Selection</a>
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-right top-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> Admin <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                  
+                        <li>
+                            <a onclick="deleteAllCookies()" href="~/Home/Login"><i class="fa fa-fw fa-power-off"></i> Log Out</a>
+                            
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#cpu"><i class="glyphicon glyphicon-unchecked"></i> CPU <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="cpu" class="collapse">
+                            <li>
+                                <a href="~/CPU/AddCPU">Add CPU</a>
+                            </li>
+                            <li>
+                                <a href="~/CPU/CPUList">List CPU</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#gpu"><i class="glyphicon glyphicon-expand"></i> GPU <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="gpu" class="collapse">
+                            <li>
+                                <a href="~/GPU/AddGPU">Add GPU</a>
+                            </li>
+                            <li>
+                                <a href="~/GPU/GPUList">List GPU</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#harddisk"><i class="glyphicon glyphicon-hdd"></i> Harddisk <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="harddisk" class="collapse">
+                            <li>
+                                <a href="~/HARDDISK/AddHardDisk">Add Harddisk</a>
+                            </li>
+                            <li>
+                                <a href="~/HARDDISK/HardDiskList">List Harddisk</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#mainboard"><i class="glyphicon glyphicon-stop"></i> Mainboard <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="mainboard" class="collapse">
+                            <li>
+                                <a href="~/MAINBOARD/AddMainboard">Add Mainboard</a>
+                            </li>
+                            <li>
+                                <a href="~/MAINBOARD/MAINBOARDList">List Mainboard</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#ram"><i class="glyphicon glyphicon-tasks"></i> RAM <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="ram" class="collapse">
+                            <li>
+                                <a href="~/RAM/AddRAM">Add RAM</a>
+                            </li>
+                            <li>
+                                <a href="~/RAM/RAMList">List RAM</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#ssd"><i class="glyphicon glyphicon-sd-video"></i> SSD <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="ssd" class="collapse">
+                            <li>
+                                <a href="~/SSD/AddSSD">Add SSD</a>
+                            </li>
+                            <li>
+                                <a href="~/SSD/SSDList">List SSD</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#cm"><i class="fa fa-laptop"></i> Computer <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="cm" class="collapse">
+                            <li>
+                                <a href="~/Computer/AddComputer">Add Computer</a>
+                            </li>
+                            <li>
+                                <a href="~/Computer/ComputerList">List Computer</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#sr"><i class="fa fa-gamepad"></i> System Requirement <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="sr" class="collapse">
+                            <li>
+                                <a href="~/SystemRequirement/AddSystemRequirement">Add System Requirement</a>
+                            </li>
+                            <li>
+                                <a href="~/SystemRequirement/SystemRequirementList">List System Requirement</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#log"><i class="fa fa-users"></i> LOG <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="log" class="collapse">
+                            <li>
+                                <a href="~/Log/LogList">List LOG</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+        <div id="page-wrapper">
+            <div class="container-fluid">
+                @RenderBody()
+            </div>
+            <!-- /.container-fluid -->
+        </div>
+        <!-- /#page-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+    <!-- jQuery -->
+    <script src="~/js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/js/bootstrap.min.js"></script>
+
+    <!-- Morris Charts JavaScript -->
+    <script src="~/js/plugins/morris/raphael.min.js"></script>
+    <script src="~/js/plugins/morris/morris.min.js"></script>
+    <script src="~/js/plugins/morris/morris-data.js"></script>
+    <script>
+        function deleteAllCookies() {
+            document.cookie = "Name=; Password=; path=/;";
+            }
+        }</script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

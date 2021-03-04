@@ -1,0 +1,57 @@
+﻿@model IEnumerable<SSDViewModel>
+@using ComputerSelection.Models
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">SSDs</div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a onclick="location.href='@Url.Action("AddSSD", "SSD")'" id="createEditUserModal" data-toggle="modal" asp-controller="SSD" asp-action="AddSSD" data-target="#modal-action-user" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i> Add SSD
+            </a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Model</th>
+                    <th>Memory Capacity</th>
+                    <th>Disk Size</th>
+                    <th>Max Read Speed</th>
+                    <th>Max Write Speed</th>
+                    <th>Edit & Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+    <tr>
+        <td>@Html.DisplayFor(modelItem => item.Model)</td>
+        <td>@Html.DisplayFor(modelItem => item.MemoryCapacity)</td>
+        <td>@Html.DisplayFor(modelItem => item.DiskSize)</td>
+        <td>@Html.DisplayFor(modelItem => item.MaxReadSpeed)</td>
+        <td>@Html.DisplayFor(modelItem => item.MaxWriteSpeed)</td>
+        <td>
+            <div class="btn-group">
+                <a onclick="location.href='@Url.Action("EditSSD", "SSD", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="SSD" asp-action="EditSSD" data-target="#modal-action-user" class="btn btn-primary">
+                    Edit
+                </a>
+            </div>
+
+            <div class="btn-group">
+                <a onclick="location.href='@Url.Action("DeleteSSD", "SSD", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="SSD" asp-action="DeleteSSD" data-target="#modal-action-user" class="btn btn-primary">
+                    Delete
+                </a>
+            </div>
+        </td>
+    </tr>
+}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/js/user-index.js" asp-append-version="true"></script>
+}

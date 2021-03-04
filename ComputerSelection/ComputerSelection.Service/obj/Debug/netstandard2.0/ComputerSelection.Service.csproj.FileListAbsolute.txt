@@ -1,0 +1,84 @@
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.deps.json
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.pdb
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csprojAssemblyReference.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfoInputs.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfo.cs
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CopyComplete
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\HP OMEN\source\repos\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.deps.json
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.pdb
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csprojAssemblyReference.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfoInputs.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfo.cs
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CoreCompileInputs.cache
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CopyComplete
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\Burcu\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.deps.json
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.pdb
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csprojAssemblyReference.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfoInputs.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfo.cs
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CopyComplete
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\HP OMEN\Desktop\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.deps.json
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.pdb
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csprojAssemblyReference.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfoInputs.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfo.cs
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CopyComplete
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\Ebb\Desktop\Yeni klasör (2)\ComputerSelection\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.deps.json
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.pdb
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csprojAssemblyReference.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfoInputs.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfo.cs
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CoreCompileInputs.cache
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CopyComplete
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\Burcu\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.deps.json
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Service.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Data.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\bin\Debug\netstandard2.0\ComputerSelection.Repository.pdb
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csprojAssemblyReference.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfoInputs.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.AssemblyInfo.cs
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.csproj.CopyComplete
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.dll
+C:\Users\Ebb\Desktop\ComputerSelectionSENASONRADANYAPTI\ComputerSelection.Service\obj\Debug\netstandard2.0\ComputerSelection.Service.pdb

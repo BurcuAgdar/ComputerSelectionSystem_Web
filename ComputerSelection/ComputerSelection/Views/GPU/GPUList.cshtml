@@ -1,0 +1,77 @@
+﻿@model IEnumerable<GPUViewModel>
+@using ComputerSelection.Models
+
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">GPUs</div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a onclick="location.href='@Url.Action("AddGPU", "GPU")'" id="createEditUserModal" data-toggle="modal" asp-controller="GPU" asp-action="AddGPU" data-target="#modal-action-user" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i>  Add GPU
+            </a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Model</th>
+                    <th>Company</th>
+                    <th>GPU Chip</th>
+                    <th>Released</th>
+                    <th>Bus</th>
+                    <th>Memory</th>
+                    <th>GPU Clock</th>
+                    <th>Memory Clock</th>
+                    <th>Shaders TMUs ROPs</th>
+                    <th>Passmark G3d Mark</th>
+                    <th>Rank</th>
+                    <th>Edit & Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Model)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Company)</td>
+                        <td>@Html.DisplayFor(modelItem => item.GPUChip)</td>
+                        @if (item.Released == "")
+                        {
+                            <td>Unkown</td>
+                        }
+                        else
+                        {
+                            <td>@Html.DisplayFor(modelItem => item.Released)</td>
+                        }
+                        <td>@Html.DisplayFor(modelItem => item.Bus)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Memory)</td>
+                        <td>@Html.DisplayFor(modelItem => item.GPUclock)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Memoryclock)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Shaders_TMUs_ROPs)</td>
+                        <td>@Html.DisplayFor(modelItem => item.PassmarkG3dMark)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Rank)</td>
+                        <td>
+                            <div class="btn-group">
+                                <a onclick="location.href='@Url.Action("EditGPU", "GPU", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="GPU" asp-action="EditGPU" data-target="#modal-action-user" class="btn btn-primary">
+                                    Edit
+                                </a>
+                            </div>
+
+                            <div class="btn-group">
+                                <a onclick="location.href='@Url.Action("DeleteGPU", "GPU", new { id = item.Model })'" id="createEditUserModal" data-toggle="modal" asp-controller="GPU" asp-action="DeleteGPU" data-target="#modal-action-user" class="btn btn-primary">
+                                    Delete
+                                </a>
+                            </div>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@section scripts
+{
+ 
+    <script src="~/js/user-index.js" asp-append-version="true"></script>
+}  
